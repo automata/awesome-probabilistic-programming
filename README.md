@@ -39,6 +39,8 @@
 ## PPL Implementations
 
 - [WebPPL](http://webppl.org/) - WebPPL is a feature-rich probabilistic programming language embedded in Javascript.
+- [CPProb](https://github.com/Lezcano/CPProb)
+- [PyProb](https://github.com/probprog/pyprob)
 
 ## Books
 
@@ -46,12 +48,19 @@
 - [Probabilistic Models of Cognition](https://probmods.org/)
 - [Practical Probabilistic Programming](https://www.manning.com/books/practical-probabilistic-programming)
 
+## People
+
+- [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html)
+- [Frank Wood](http://www.robots.ox.ac.uk/~fwood/)
+
 ## Research Groups
 
-- http://cocosci.mit.edu/
+- http://cocosci.mit.edu/ - Led by Josh Tenenbaum
+- [Probabilistic Programming Group at the University of Oxford](https://github.com/probprog) - Led by Frank Wood
 
-## Tutorials
+## Tutorials / Articles
 
+- https://queue.acm.org/detail.cfm?id=3055303
 - http://www.pl-enthusiast.net/2014/09/08/probabilistic-programming/
 
 - https://news.ycombinator.com/item?id=17220861
